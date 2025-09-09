@@ -25,7 +25,7 @@ const services = [
     img: acumputuraImg,
   },
   {
-    title: "Ozionioterapia",
+    title: "Ozonioterapia",
     desc: "Terapia que utiliza ozônio medicinal para potencializar processos de cura, melhorar a circulação e fortalecer o sistema imunológico.",
     img: ozonioterapiaImg,
   },

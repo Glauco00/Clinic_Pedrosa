@@ -3,8 +3,8 @@ import './App.css';
 
 const timelineData = [
   { year: '1995', place: 'Ação Cristã Vicente Moretti', desc: 'Tratamentos voltados para PCDs.' },
-  { year: '1999', place: 'Hospital Estadual Pedro II', desc: 'Tratamentos com doenças Oncológicas.' },
-  { year: '2006', place: 'Instituto Nacional de Câncer – INCA', desc: 'Tratamentos voltados para pacientes com câncer.' },
+  { year: '1999', place: 'Hospital Estadual Pedro II', desc: 'Tratamentos com doenças gerais.' },
+  { year: '2006', place: 'Instituto Nacional de Câncer – INCA', desc: 'Tratamentos com doenças oncológicas.' },
   { year: '2014', place: 'Secretaria de Estado de Administração Penitenciária', desc: 'Tratamentos gerais de internos.' },
 ];
 
